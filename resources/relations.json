@@ -1,0 +1,106 @@
+{
+	"success":true,
+	"items": [{
+		"name": "I PRIORITETAS",
+		"description": "",
+		"result": "P",
+		"icon": "eur",
+		"fromId": null,
+		"toId": "prioritetas",
+		"order": 1
+	},{
+		"name": "1.1.1 Darbas",
+		"description": "",
+		"result": "G",
+		"fromId": "prioritetas",
+		"toId": "darbas11",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. I kev.",
+		"order": 1
+	},{
+		"name": "1.1.2 Darbas",
+		"description": "",
+		"result": "P",
+		"icon": "eur",
+		"fromId": "prioritetas",
+		"toId": "darbas12",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. I kev.",
+		"order": 1
+	},{
+		"name": "1.1.3 Darbas",
+		"description": "",
+		"result": "N",
+		"icon": "line-chart",
+		"fromId": "prioritetas",
+		"toId": "darbas13",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. II kev.",
+		"order": 1
+	},{
+		"name": "1.2.1 Darbas",
+		"description": "",
+		"result": "G",
+		"icon": "eur",
+		"fromId": "prioritetas",
+		"toId": "darbas21",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. I kev.",
+		"order": 2
+	},{
+		"name": "1.2.2 Darbas",
+		"description": "",
+		"result": "B",
+		"icon": "dot-circle-o",
+		"fromId": "prioritetas",
+		"toId": "darbas22",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. I kev.",
+		"order": 3
+	},{
+		"name": "1.2.3 Darbas",
+		"description": "",
+		"result": "N",
+		"icon": "line-chart",
+		"fromId": "prioritetas",
+		"toId": "darbas23",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. III kev.",
+		"order": 2
+	},{
+		"name": "1.3.1 Darbas",
+		"description": "",
+		"result": "P",
+		"icon": "line-chart",
+		"fromId": "prioritetas",
+		"toId": "darbas31",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. I kev.",
+		"order": 2
+	},{
+		"name": "1.3.2 Darbas",
+		"description": "",
+		"result": "N",
+		"icon": "dot-circle-o",
+		"fromId": "prioritetas",
+		"toId": "darbas32",
+		"coord": "Vyriausybės kanceliarija",
+		"period": "2016 m. II kev.",
+		"order": 3
+	},{
+		"fromId": "darbas11",
+		"toId": "darbas12"
+	},{
+		"fromId": "darbas11",
+		"toId": "darbas21"
+	},{
+		"fromId": "darbas21",
+		"toId": "darbas31"
+	},{
+		"fromId": "darbas22",
+		"toId": "darbas31"
+	},{
+		"fromId": "darbas11",
+		"toId": "darbas13"
+	}]
+}

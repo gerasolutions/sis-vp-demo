@@ -1,0 +1,112 @@
+[{
+	"label": "I Prioritetas - Šalies konkurencingumo didinimas",
+	"type": "P",
+	"children": [{
+		"label": "1.1. Tiesioginių užsienio investicijų pritraukimas ir ekonominės infrastruktūros plėtra, šalies regionų netolygumų mažinimas",
+		"type": "T",
+		"leaf": true
+	},{
+		"label": "1.2. Eksporto skatinimas ir ekonominės diplomatijos stiprinimas",
+		"type": "T",
+		"leaf": true
+	},{
+		"label": "1.3. Inovacijų plėtros skatinimas",
+		"type": "T",
+		"leaf": true
+	}]
+},{
+	"label": "II Prioritetas - Europos sąjungos ir užsienio politikos, nacionalinio saugumo stiprinimas",
+	"type": "P",
+	"children": [{
+		"label": "2.1. Europos Sąjungos ir NATO vaidmens stiprinimas, glaudesnė sąveika su šių organizacijų valstybėmis narėmis ir kaimyninėmis valstybėmis, Europos Sąjungos Rytų partnerystės politikos įgyvendinimas",
+		"type": "T",
+		"leaf": true
+	},{
+		"label": "2.2. Šalies gynybos pajėgumų stiprinimas ir parama NATO sąjungininkų pajėgoms, dislokuotoms Lietuvoje",
+		"type": "T",
+		"leaf": true
+	},{
+		"label": "2.3. Europos Sąjungos išorės sienų apsaugos stiprinimas, migracijos iššūkių valdymas",
+		"type": "T",
+		"leaf": true
+	}]
+},{
+	"label": "III Prioritetas - Viešojo sektoriaus efektyvumo ir skaidrumo didinimas",
+	"type": "P",
+	"expanded": true,
+	"children": [{
+		"label": "3.1. Bendrųjų paslaugų apimties mažinimas ir efektyvumo didinimas",
+		"type": "T",
+		"expanded": true,
+		"children": [{
+			"label": "Veiklos efektyvumo indeksas",
+			"type": "R",
+			"leaf": true
+		},{
+			"label": "Valstybės biudžeto dalis, tenkanti institucijų administravimui ir išlaikymui",
+			"type": "R",
+			"leaf": true
+		},{
+			"label": "3.1.1. Darbas: bendrųjų paslaugų konsolidavimas ministerijose",
+			"type": "D",
+			"expanded": true,
+			"coord": "Vyriausybės kanceliarija",
+			"children": [{
+				"label": "Valdymo išlaidos, skiriamos bendrųjų funkcijų vykdymui",
+				"type": "R",
+				"leaf": true
+			},{
+				"label": "Etatų skaičius, skiriamas bendrųjų funkcijų vykdymui",
+				"type": "RL",
+				"leaf": true
+			},{
+				"label": "1. Paskirti instituciją, atsakingą už bendrųjų funkcijų konsolidavimo politikos formavimą, metodinį vadovavimą ir priežiūrą",
+				"type": "U",
+				"val21": true,
+				"val22": true,
+				"val23": false,
+				"val24": false,
+				"exec": "LRVK",
+				"leaf": true
+			},{
+				"label": "2. Ministerijose paskirti asmenį, užimantį vadovaujančias pareigas, kuris būtų atsakingas už bendrųjų funkcijų konsolidavimą atitinkamam ministrui paskirtose valdymo srityse",
+				"type": "U",
+				"val21": false,
+				"val22": true,
+				"val23": true,
+				"val24": false,
+				"exec": "LRVK",
+				"leaf": true
+			},{
+				"label": "3. Parengti detalų veiklos sričių, kurių funkcijų vykdymas galėtų būti perduodamas paslaugų centrams, planą ir reikalingą etatų skaičių",
+				"type": "U",
+				"val21": false,
+				"val22": true,
+				"val23": true,
+				"val24": true,
+				"val31": true,
+				"exec": "LRVK",
+				"leaf": true
+			},{
+				"label": "4. Nustatytose veiklos srityse (administracinių paslaugų grupėse) atlikti išsamų funkcijų konsolidavimo vertinimą ir planą",
+				"type": "U",
+				"val21": false,
+				"val22": false,
+				"val23": true,
+				"val24": true,
+				"val31": true,
+				"val32": true,
+				"exec": "LRVK, FM, VRM, ŪM, VTD, LVAT, VPT, IVPK",
+				"leaf": true
+			}]
+		}]
+	},{
+		"label": "3.2. Bendrojo ugdymo mokyklų, profesinio mokymo ir aukštojo mokslo įstaigų tinklo optimizavimas",
+		"type": "T",
+		"leaf": true
+	},{
+		"label": "3.3. Švietimo ir studijų kokybės gerinimas, rinkos poreikius atitinkančių žmogiškųjų išteklių plėtra",
+		"type": "T",
+		"leaf": true
+	}]
+}]
